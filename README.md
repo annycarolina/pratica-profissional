@@ -1,2 +1,2 @@
-# pratica-profissional
-Grupo de Prática Profissional
+# Projeto de Prática Profissional ADS
+## Grupo: ADS Grupo

@@ -2,7 +2,8 @@
 ## Grupo: ADS Grupo
 ## InfoPress
 
-Executando o Site de Notícias InfoPress Localmente
+Instruções de como executando o Site de Notícias InfoPress Localmente
+
 Requisitos de Sistema:
 
 Sistema Operacional: Windows, macOS, Linux
